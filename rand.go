@@ -1,4 +1,4 @@
-package main
+package LunaSockets
 
 import (
 	"crypto/rand"

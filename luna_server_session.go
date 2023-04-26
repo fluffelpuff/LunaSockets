@@ -1,4 +1,4 @@
-package main
+package LunaSockets
 
 type LunaServerSession struct {
 	Session LunaSocketSession

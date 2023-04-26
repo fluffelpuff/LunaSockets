@@ -1,4 +1,4 @@
-package main
+package LunaSockets
 
 type FirstCheck struct {
 	Id   string
